@@ -1,0 +1,4 @@
+biopython
+flask
+mysql-connector-python
+ete3
