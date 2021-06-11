@@ -2,3 +2,4 @@ biopython
 flask
 mysql-connector-python
 ete3
+matplotlib
