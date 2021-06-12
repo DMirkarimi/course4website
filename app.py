@@ -311,7 +311,7 @@ def info() -> str:
         return render_template('infopage.html',
                                img_url='/static/images/plaatje.png')
     return render_template(
-        'infopage.html', img_url='/static/images/insert_image_here.png')
+        'infopage.html', img_url='/static/images/Insert_image_here.png')
 
 
 if __name__ == '__main__':
